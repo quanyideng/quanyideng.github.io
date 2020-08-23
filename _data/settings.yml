@@ -19,7 +19,7 @@ featured-img:
 
 #Show categories at the end of posts
 categories:
-  active: true
+  active: false
 
 #Show date and read time under the post title
 date-under-post:
@@ -31,9 +31,9 @@ mathjax:
 
 #Show related posts based on categories
 related-posts:
-  active: true
+  active: false
   title: "You May Also Enjoy"
 
 #Disqus
 disqus:
-  disqus_shortname: "your_username" #Your disqus shortname. Leave blank to deactivate disqus comments
+  disqus_shortname: "Hawkins" #Your disqus shortname. Leave blank to deactivate disqus comments
